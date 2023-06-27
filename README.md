@@ -1,3 +1,3 @@
 # MoGo
 
-This web page was made for practice with help of YouTube channel BrainsCloud
+This practice web page was crafted with the assistance of the BrainsCloud YouTube channel. It showcases a fully responsive design, achieved through the implementation of Media Query Breakpoints in CSS. Additionally, jQuery has been utilized to enhance interactivity, particularly for mobile navigation and the collapsible accordion-style description sections. To showcase reviews, the page employs the dynamic and visually appealing Slick carousel. The project serves as an opportunity to gain hands-on experience with responsive design techniques and leveraging popular libraries like jQuery.
